@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just a simple ruby on rails website that can be run by installing ruby on rails, placing these files in a folder named "blog", and using the command
+
+```ruby bin\server rails```
 
 Things you may want to cover:
 
@@ -21,4 +22,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
